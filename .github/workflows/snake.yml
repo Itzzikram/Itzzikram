@@ -27,7 +27,7 @@ jobs:
         id: snake-gif
         with:
           # Replace 'itzzkirito' with your GitHub username if different
-          github_user_name: itzzkirito
+          github_user_name: itzzikram
           outputs: |
             output/github-contribution-grid-snake.svg
         env:
