@@ -34,6 +34,7 @@
 
 <br/>
 
+
 <!-- ═══════════════════════ HERO CTA BADGES ═══════════════════════ -->
 
 <div align="center">
@@ -61,7 +62,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/stars/ItzzIkram?color=58a6ff&style=flat-square&logo=github&label=Stars" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Experience-3%2B_Years-9745f5?style=flat-square&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-6%2B_Years-9745f5?style=flat-square&logo=clockify&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Clients-Worldwide-00d26a?style=flat-square&logo=google-earth&logoColor=white" />
   &nbsp;
