@@ -787,18 +787,17 @@ export default developer;
 
 ## 🐍 Contribution Snake
 
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItzzIkram/ItzzIkram/main/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItzzIkram/ItzzIkram/main/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/ItzzIkram/ItzzIkram/main/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-  <br/><br/>
-
-  > *🛠️ Requires [generate-snake.yml](https://github.com/Platane/snk) GitHub Action in your profile repo to generate the SVG.*
-
+  
+  <p>Watch my contributions come to life! This animation is automatically generated from my GitHub contribution graph.</p>
+  
+  <img src="https://raw.githubusercontent.com/itzzikram/itzzikram/main/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  
+  <p><i>💡 This animation updates daily via GitHub Actions workflow.</i></p>
+  
 </div>
+
 
 <br/>
 
