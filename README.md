@@ -668,11 +668,8 @@ export default developer;
 <div align="center">
 
 <p align="center">
-
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=ItzzIkram&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzIkram&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=ItzzIkram&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzIkram&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
   <br/><br/>
