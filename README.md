@@ -720,8 +720,10 @@ export default developer;
 
 ### 🏆 Trophy Showcase
 
+## 🏆 Trophy Showcase
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItzzIkram&theme=algolia&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItzzIkram&theme=algolia&row=1&column=7&margin-w=10" />
 </p>
 
 </div>
