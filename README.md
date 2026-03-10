@@ -673,9 +673,9 @@ export default developer;
 
   <br/><br/>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-nine-ruby.vercel.app?user=ItzzIkram&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" />
-  </a>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=ItzzIkram&theme=github-dark-blue&hide_border=true&background=0D1117" />
+</p>
 
   <br/><br/>
 
