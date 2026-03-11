@@ -644,7 +644,7 @@ export default developer;
 
 | | Project | What It Does | Tech | Highlights |
 |:---:|:---|:---|:---:|:---|
-| 🎙️ | **[DemonZ-Ripper](https://github.com/ItzzIkram/demonz-ripper)** | Full-stack WebGL 3D model ripper — intercepts draw calls from Fab.com & WebGL sites, captures meshes/textures/shaders, exports to GLB, glTF, OBJ, or Unreal Engine UAsset | `TS` `WebGL` `Puppetee` | Proxy-based WebGL2 hooking, 4 export formats, PBR material pipeline, SSRF-protected headless Chrome, dark neon UI |
+| 🔮 | **[DemonZ-Ripper](https://github.com/ItzzIkram/demonz-ripper)** | Full-stack WebGL 3D model ripper — intercepts draw calls from Fab.com & WebGL sites, captures meshes/textures/shaders, exports to GLB, glTF, OBJ, or Unreal Engine UAsset | `TS` `WebGL` `Puppetee` | Proxy-based WebGL2 hooking, 4 export formats, PBR material pipeline, SSRF-protected headless Chrome, dark neon UI |
 | ⚡ | **[DemonX-Nuker](https://github.com/ItzzIkram/DemonX-Nuker)** | High-performance async automation engine with intelligent concurrency and API optimization | `Py` `Async` | Optimized throughput, rate-limit aware, modular |
 | 🔄 | **[Discord-Server-Cloner](https://github.com/ItzzIkram/Discord-Server-Cloner)** | Full-fidelity guild replication — roles, channels, emojis, permissions — with proxy rotation | `Py` `API` | Complete clone, proxy support, error recovery |
 | 🛡️ | **[API-Rate-Limiter-Library](https://github.com/ItzzIkram/API-Rate-Limiter-Library)** | Production-grade rate limiter — Redis-backed sliding window with per-user/IP/endpoint granularity | `TS` `Redis` | High throughput, zero-dependency core, configurable |
