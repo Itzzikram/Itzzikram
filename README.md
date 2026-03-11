@@ -609,8 +609,8 @@ export default developer;
 
 <div align="center">
 
-<a href="https://github.com/ItzzIkram/discord-voice-ai">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzzIkram&repo=discord-voice-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&description_color=8b949e" />
+<a href="https://github.com/ItzzIkram/demonz-ripper">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=ItzzIkram&repo=demonz-ripper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&description_color=8b949e" />
 </a>
 &nbsp;
 <a href="https://github.com/ItzzIkram/DemonX-Nuker">
