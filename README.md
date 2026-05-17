@@ -88,7 +88,7 @@
 
 ### 👋 Hey, I'm **Ikram** — Let's Build Something Extraordinary
 
-I'm a **full-stack developer** and **automation architect** from **Bangladesh 🇧🇩** with **3+ years** of hands-on experience engineering **high-performance systems** for communities, startups, and businesses across **North America, Europe, and Asia**.
+I'm a **full-stack developer** and **automation architect** from **Bangladesh 🇧🇩** with **5+ years** of hands-on experience engineering **high-performance systems** for communities, startups, and businesses across **North America, Europe, and Asia**.
 
 My craft sits at the intersection of **intelligent automation**, **real-time systems**, and **clean software architecture**. Whether it's a Discord bot serving thousands of users or an AI voice pipeline processing audio in real-time — I build things that *just work*.
 
