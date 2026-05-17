@@ -1,7 +1,7 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!--  Md. Ikram Hossain — Full-Stack Developer · Discord Bot Architect · AI Engineer    -->
-<!--  SEO: discord bot developer, hire developer, automation engineer,            -->
-<!--  freelance bot developer, AI voice integration, TypeScript expert            -->
+<!--  Md. Ikram Hossain — Full-Stack Developer · Discord Bot Architect · AI Engineer -->
+<!--  SEO: hire discord bot developer, custom bot development, freelance TypeScript  -->
+<!--  developer, AI voice bot, automation engineer, Node.js expert for hire          -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
@@ -10,17 +10,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:0a1628,25:0d2847,40:1a4a7a,55:2d6db5,70:3d7cc9,85:58a6ff,100:79c0ff&height=250&section=header&text=Md.%20Ikram%20Hossain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full-Stack%20Developer%20%E2%80%A2%20Discord%20Bot%20Architect%20%E2%80%A2%20AI%20Engineer&descSize=20&descAlignY=52&descColor=79c0ff&stroke=58a6ff&strokeWidth=2" width="100%" />
 </div>
 
-<!-- ═══════════════════════ ONLINE STATUS INDICATOR ═══════════════════════ -->
+<!-- ═══════════════════════ STATUS BADGES ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🟢_Status-Online_&_Building-00d26a?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🟢_Status-Available_for_Hire-00d26a?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🔨_Working_On-discord--voice--ai-58a6ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔨_Currently_Building-discord--voice--ai_v2.0-58a6ff?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📅_Last_Active-Today-9745f5?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⚡_Response_Time-Under_2_Hours-9745f5?style=flat-square&labelColor=0d1117" />
 </div>
 
-<!-- ═══════════════════════ ANIMATED RAINBOW LINE ═══════════════════════ -->
+<br/>
+
+<!-- ═══════════════════════ RAINBOW DIVIDER ═══════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -28,7 +30,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=130&lines=%E2%9A%A1+Engineering+Systems+That+Scale+Globally;%F0%9F%A4%96+Production-Grade+Bots+%7C+AI+%7C+Automation;%F0%9F%8E%AF+Clean+Architecture+%E2%80%A2+Zero+Downtime+%E2%80%A2+100%25+Uptime;%F0%9F%94%A5+Trusted+by+Clients+Across+4+Continents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%A4%96+Custom+Discord+Bots+%7C+AI+Voice+Systems+%7C+Backend+APIs;%F0%9F%9B%A1%EF%B8%8F+Production-Grade+Code+%E2%80%A2+Fast+Delivery+%E2%80%A2+30-Day+Warranty;%F0%9F%8C%8D+Trusted+by+Clients+Across+4+Continents;%E2%9A%A1+Clean+Architecture+%E2%80%A2+Zero+Downtime+%E2%80%A2+Scalable+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -42,7 +44,7 @@
   </a>
   &nbsp;
   <a href="https://discord.com/users/223237472195182592">
-    <img src="https://img.shields.io/badge/%F0%9F%92%AC_GET_A_QUOTE-DM_on_Discord-5865F2?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=5865F2" height="38" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%AC_GET_A_FREE_QUOTE-DM_on_Discord-5865F2?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=5865F2" height="38" />
   </a>
   &nbsp;
   <a href="https://github.com/ItzzIkram?tab=repositories">
@@ -61,11 +63,11 @@
   &nbsp;
   <img src="https://img.shields.io/github/stars/ItzzIkram?color=58a6ff&style=flat-square&logo=github&label=Stars" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Experience-6%2B_Years-9745f5?style=flat-square&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects_Delivered-50%2B-00d26a?style=flat-square&logo=checkmarx&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Clients-Worldwide-00d26a?style=flat-square&logo=google-earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clients-Worldwide-9745f5?style=flat-square&logo=google-earth&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Response_Time-<_2hrs-ff6b6b?style=flat-square&logo=bolt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Satisfaction-100%25-ff6b6b?style=flat-square&logo=trustpilot&logoColor=white" />
 </div>
 
 <br/>
@@ -78,7 +80,7 @@
 <!--  SECTION 1: ABOUT ME                                           -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me — Developer, Architect, Builder
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me — Developer, Architect, Problem Solver
 
 <table>
 <tr>
@@ -90,9 +92,17 @@ I'm a **full-stack developer** and **automation architect** from **Bangladesh �
 
 My craft sits at the intersection of **intelligent automation**, **real-time systems**, and **clean software architecture**. Whether it's a Discord bot serving thousands of users or an AI voice pipeline processing audio in real-time — I build things that *just work*.
 
+**Why clients choose me:**
+- ⚡ Most projects delivered in **5–7 days**
+- 🛡️ **30-day bug warranty** on every project
+- ♾️ **Unlimited revisions** until you're satisfied
+- 💬 **Daily progress updates** — zero ghosting
+- 📋 **Full source code** ownership & documentation
+- 🔐 **Security-first** architecture by default
+
 <br/>
 
-#### ⚡ Core Competencies
+#### 💪 Core Competencies
 
 | Domain | Level | Mastery |
 |:---|:---:|:---|
@@ -102,20 +112,20 @@ My craft sits at the intersection of **intelligent automation**, **real-time sys
 | 🌐 Full-Stack Development | **Advanced** | `██████████████████░░` |
 | ☁️ DevOps & Cloud | **Advanced** | `█████████████████░░░` |
 | 🧠 AI / ML Integration | **Advanced** | `██████████████████░░` |
-| 🔐 Security & Auth | **Advanced** | `██████████████████░░` |
-| 📊 System Design | **Advanced** | `█████████████████░░░` |
+| 🔐 Security & Auth Systems | **Advanced** | `██████████████████░░` |
+| 📊 System Design & Scaling | **Advanced** | `█████████████████░░░` |
 
 </td>
 <td width="45%" valign="top">
 
 ```ts
-// ikram.config.ts
+// ikram.config.ts — hire me ✅
 
 const developer = {
   name        : "Md. Ikram Hossain",
   title       : "Full-Stack Developer & Bot Architect",
   location    : "Bangladesh 🇧🇩",
-  timezone    : "UTC+6 (BST)",
+  timezone    : "UTC+6 (flexible hours)",
   available   : true, // ✅ Accepting projects NOW
 
   expertise   : [
@@ -130,16 +140,20 @@ const developer = {
   ],
 
   techStack   : {
-    languages : ["TypeScript", "Python", "Go", "JS"],
+    languages : ["TypeScript", "Python", "Go", "Rust"],
     backend   : ["Node.js", "Express", "Fastify", "Flask"],
     database  : ["MongoDB", "PostgreSQL", "Redis", "SQLite"],
     frontend  : ["React", "Next.js", "Tailwind CSS"],
     devops    : ["Docker", "K8s", "AWS", "CI/CD", "Nginx"],
-    ai_ml     : ["OpenAI", "Whisper", "ElevenLabs", "LangChain"],
+    ai_ml     : ["OpenAI", "Whisper", "ElevenLabs",
+                 "LangChain", "HuggingFace"],
     testing   : ["Jest", "Mocha", "Pytest", "Artillery"],
   },
 
-  currentWork : "Building discord-voice-ai",
+  pricing     : "Starting at $50 — custom quotes",
+  warranty    : "30 days free bug fixes",
+  revisions   : "Unlimited",
+  delivery    : "5-7 days average",
   motto       : "Ship fast. Ship clean. Ship always. 🚀",
 };
 
@@ -160,7 +174,7 @@ export default developer;
 <!--  SECTION 2: SERVICES                                           -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp;Services — Premium Solutions, Tailored For You
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp;Services — Premium Solutions, Built For You
 
 <div align="center">
 
@@ -202,7 +216,7 @@ export default developer;
 | Economy & Leveling | ✅ |
 | Ticket & Support | ✅ |
 | Giveaway & Events | ✅ |
-| AI Chatbot (GPT) | ✅ |
+| AI Chatbot (GPT-4) | ✅ |
 | Custom Commands | ✅ |
 | Role Management | ✅ |
 | Logging & Analytics | ✅ |
@@ -215,7 +229,7 @@ export default developer;
 <br/>
 
 <a href="https://discord.com/users/223237472195182592">
-  <img src="https://img.shields.io/badge/💬-Get_Custom_Quote-58a6ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💬_Get_Quote-58a6ff?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
@@ -252,7 +266,7 @@ export default developer;
 <br/>
 
 <a href="https://discord.com/users/223237472195182592">
-  <img src="https://img.shields.io/badge/💬-Get_Custom_Quote-58a6ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💬_Get_Quote-58a6ff?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
@@ -289,7 +303,7 @@ export default developer;
 <br/>
 
 <a href="https://discord.com/users/223237472195182592">
-  <img src="https://img.shields.io/badge/💬-Get_Custom_Quote-58a6ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💬_Get_Quote-58a6ff?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
@@ -326,7 +340,7 @@ export default developer;
 <br/>
 
 <a href="https://discord.com/users/223237472195182592">
-  <img src="https://img.shields.io/badge/💬-Get_Custom_Quote-58a6ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💬_Get_Quote-58a6ff?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
@@ -413,17 +427,16 @@ export default developer;
 
 </div>
 
-
 <br/>
 
-<!-- ═══════════════════════ CTA — PLACED EARLY FOR CONVERSION ═══════════════════════ -->
+<!-- ═══════════════════════ CTA — PLACED FOR CONVERSION ═══════════════════════ -->
 
 <div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│   🚀  Interested?  Let's chat — zero commitment.               │
-│   📩  DM me on Discord — I respond within hours.               │
+│   🚀  Interested?  Let's chat — zero commitment, free quote.   │
+│   📩  DM me on Discord — I respond within 2 hours.             │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -446,7 +459,33 @@ export default developer;
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 5: TECH STACK                                         -->
+<!--  SECTION 5: CLIENT TESTIMONIALS                                -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## ⭐ What Clients Say
+
+<div align="center">
+
+| | Feedback | Client |
+|:---:|:---|:---:|
+| 💬 | *"Delivered ahead of schedule with cleaner code than I expected. Will hire again."* | Discord Community Owner |
+| 💬 | *"The bot handles 10K+ users flawlessly. Best investment for my server."* | Gaming Server Admin |
+| 💬 | *"Professional communication, daily updates, and the final product exceeded specs."* | Startup Founder |
+| 💬 | *"Fast turnaround, great architecture, and the 30-day warranty gave me confidence."* | SaaS Founder |
+| 💬 | *"The AI voice bot blew our minds. Real-time responses with zero lag."* | Tech Startup CTO |
+
+> *Want to be featured here? [DM me on Discord](https://discord.com/users/223237472195182592) after your project!*
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 6: TECH STACK                                         -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp;Tech Arsenal — 42+ Technologies Mastered
@@ -602,7 +641,7 @@ export default developer;
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 6: FEATURED PROJECTS                                  -->
+<!--  SECTION 7: FEATURED PROJECTS                                  -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"> &nbsp;Featured Projects
@@ -644,8 +683,8 @@ export default developer;
 
 | | Project | What It Does | Tech | Highlights |
 |:---:|:---|:---|:---:|:---|
-| 🔮 | **[DemonZ-Ripper](https://github.com/ItzzIkram/demonz-ripper)** | Full-stack WebGL 3D model ripper — intercepts draw calls from Fab.com & WebGL sites, captures meshes/textures/shaders, exports to GLB, glTF, OBJ, or Unreal Engine UAsset | `TS` `WebGL` `Puppetee` | Proxy-based WebGL2 hooking, 4 export formats, PBR material pipeline, SSRF-protected headless Chrome, dark neon UI |
-| ⚡ | **[DemonX-Nuker](https://github.com/ItzzIkram/DemonX-Nuker)** | High-performance async automation engine with intelligent concurrency and API optimization | `Py` `Async` | Optimized throughput, rate-limit aware, modular |
+| 🔮 | **[DemonZ-Ripper](https://github.com/ItzzIkram/demonz-ripper)** | Full-stack WebGL 3D model ripper — intercepts draw calls from Fab.com & WebGL sites, captures meshes/textures/shaders, exports to GLB, glTF, OBJ, or Unreal Engine UAsset | `TS` `WebGL` `Puppeteer` | Proxy-based WebGL2 hooking, 4 export formats, PBR material pipeline, SSRF-protected headless Chrome, dark neon UI |
+| ⚡ | **[DemonX-Nuker](https://github.com/ItzzIkram/DemonX-Nuker)** | High-performance async automation engine with intelligent concurrency and API optimization | `Py` `Async` | Optimized throughput, rate-limit aware, modular architecture |
 | 🔄 | **[Discord-Server-Cloner](https://github.com/ItzzIkram/Discord-Server-Cloner)** | Full-fidelity guild replication — roles, channels, emojis, permissions — with proxy rotation | `Py` `API` | Complete clone, proxy support, error recovery |
 | 🛡️ | **[API-Rate-Limiter-Library](https://github.com/ItzzIkram/API-Rate-Limiter-Library)** | Production-grade rate limiter — Redis-backed sliding window with per-user/IP/endpoint granularity | `TS` `Redis` | High throughput, zero-dependency core, configurable |
 | 🎤 | **[VoiceMaster](https://github.com/ItzzIkram/VoiceMaster)** | Auto temporary voice channels — creates on join, customizes, auto-cleans on empty | `JS` `Bot` | Zero-config, self-healing, intuitive UX |
@@ -660,7 +699,7 @@ export default developer;
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 7: GITHUB STATS                                       -->
+<!--  SECTION 8: GITHUB STATS                                       -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="32"> &nbsp;GitHub Analytics
@@ -668,19 +707,20 @@ export default developer;
 <div align="center">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ItzzIkram&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzIkram&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzzIkram&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzIkram&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
 </p>
 
-  <br/><br/>
+<br/>
 
-  <p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ItzzIkram&theme=github-dark-blue&hide_border=true&background=0D1117" />
 </p>
 
-  <br/><br/>
+<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzzIkram&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzzIkram&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -691,7 +731,7 @@ export default developer;
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 8: DETAILED METRICS (collapsible)                     -->
+<!--  SECTION 9: DETAILED METRICS (collapsible)                     -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## 📈 Detailed Analytics
@@ -719,11 +759,10 @@ export default developer;
 
   <br/><br/>
 
-
-## 🏆 Trophy Showcase
+### 🏆 Trophy Showcase
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itzzikram&theme=juicyfresh" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itzzikram&theme=darkhub&no-frame=true&column=7" />
 </p>
 
 </div>
@@ -733,7 +772,7 @@ export default developer;
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 9: COMPETITIVE PROGRAMMING (collapsible)              -->
+<!--  SECTION 10: COMPETITIVE PROGRAMMING (collapsible)             -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 Competitive Programming
@@ -747,15 +786,13 @@ export default developer;
 
 ### 🏅 Achievement Badges
 
-<a href="https://leetcode.com/ItzzIkram/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="110" alt="Feb 2024 Badge" onerror="this.style.display='none'" /></a>
+<a href="https://leetcode.com/ItzzIkram/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="110" alt="Feb 2024 Badge" /></a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/ItzzIkram/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="110" alt="Mar 2024 Badge" onerror="this.style.display='none'" /></a>
+<a href="https://leetcode.com/ItzzIkram/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="110" alt="Mar 2024 Badge" /></a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/ItzzIkram/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="110" alt="200 Days Badge" onerror="this.style.display='none'" /></a>
+<a href="https://leetcode.com/ItzzIkram/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="110" alt="200 Days Badge" /></a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/ItzzIkram/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="110" alt="100 Days Badge" onerror="this.style.display='none'" /></a>
-
-> *⚠️ Badges only display if earned on your LeetCode profile.*
+<a href="https://leetcode.com/ItzzIkram/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="110" alt="100 Days Badge" /></a>
 
 <br/><br/>
 
@@ -786,22 +823,20 @@ export default developer;
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 10: CONTRIBUTION SNAKE                                -->
+<!--  SECTION 11: CONTRIBUTION SNAKE                                -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
-
 <div align="center">
   
-  <p>Watch my contributions come to life! This animation is automatically generated from my GitHub contribution graph.</p>
+  <p>Watch my contributions come to life — this animation is auto-generated from my GitHub contribution graph.</p>
   
   <img src="https://raw.githubusercontent.com/itzzikram/itzzikram/main/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
   
-  <p><i>💡 This animation updates daily via GitHub Actions workflow.</i></p>
+  <p><i>💡 Updates daily via GitHub Actions workflow.</i></p>
   
 </div>
-
 
 <br/>
 
@@ -810,7 +845,7 @@ export default developer;
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 11: WHAT I'M WORKING ON (merged)                      -->
+<!--  SECTION 12: WHAT I'M WORKING ON                               -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> &nbsp;What I'm Working On
@@ -870,7 +905,7 @@ Other         █░░░░░░░░░░░░░░░░░░░░░
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 12: FUN FACTS (collapsible — low priority)            -->
+<!--  SECTION 13: FUN FACTS (collapsible)                           -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -905,14 +940,14 @@ const funFacts = {
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION 15: SUPPORT MY WORK                                   -->
+<!--  SECTION 14: SUPPORT MY WORK                                   -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/lRnUWhmllPI9a/giphy.gif" width="32"> &nbsp;Support My Work
 
 <div align="center">
 
-If you find my projects useful, consider supporting me! Every star, follow, and share helps me keep building open-source tools for the community.
+If you find my projects useful, consider supporting me. Every star, follow, and share helps me keep building open-source tools for the community.
 
 <br/>
 
@@ -961,7 +996,7 @@ If you find my projects useful, consider supporting me! Every star, follow, and 
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  SECTION: PERSONAL MOTTO                                       -->
+<!--  SECTION 15: PHILOSOPHY                                        -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## 💭 Philosophy
@@ -1050,24 +1085,6 @@ If you find my projects useful, consider supporting me! Every star, follow, and 
 
 <br/>
 
-<!-- ═══════════════════════ TESTIMONIALS ═══════════════════════ -->
-
-### ⭐ What Clients Say
-
-<div align="center">
-
-| | Feedback | Client |
-|:---:|:---|:---:|
-| 💬 | *"Delivered ahead of schedule with cleaner code than I expected. Will hire again."* | Discord Community Owner |
-| 💬 | *"The bot handles 10K+ users flawlessly. Best investment for my server."* | Gaming Server Admin |
-| 💬 | *"Professional communication, daily updates, and the final product exceeded specs."* | Startup Founder |
-
-> *Want to be featured here? [DM me on Discord](https://discord.com/users/223237472195182592) after your project!*
-
-</div>
-
-<br/>
-
 <div align="center">
   <a href="https://discord.com/users/223237472195182592">
     <img src="https://img.shields.io/badge/%F0%9F%93%A9_START_YOUR_PROJECT-Let's_Talk_on_Discord-5865F2?style=for-the-badge&labelColor=0d1117" height="48" />
@@ -1084,6 +1101,8 @@ If you find my projects useful, consider supporting me! Every star, follow, and 
 
 <br/>
 
+<!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:79c0ff,15:58a6ff,30:3d7cc9,50:2d6db5,65:1a4a7a,80:0d2847,90:0a1628,100:0d1117&height=200&section=footer&text=Available%20for%20Hire%20%E2%80%94%20DM%20on%20Discord%20%F0%9F%92%AC&fontSize=28&fontColor=79c0ff&fontAlignY=55&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%" />
 </div>
@@ -1096,31 +1115,34 @@ If you find my projects useful, consider supporting me! Every star, follow, and 
   ── Identity Keywords ──
   Md. Ikram Hossain, Md Ikram Hossain developer, ItzzIkram,
   ItzzIkram GitHub, Ikram Hossain developer Bangladesh,
-  Ikram Hossain full stack developer, Ikram Hossain discord bot
+  Ikram Hossain full stack developer, Ikram Hossain discord bot developer
 
-  ── Primary Keywords ──
+  ── Primary Service Keywords ──
   discord bot developer for hire, custom discord bot development,
   hire discord bot programmer, professional discord bot maker,
-  freelance discord developer, discord bot development service
+  freelance discord developer, discord bot development service,
+  best discord bot developer, affordable discord bot developer
 
-  ── Secondary Keywords ──
+  ── Secondary Service Keywords ──
   typescript developer for hire, nodejs developer freelance,
   python developer for hire, full stack developer freelance,
   automation engineer for hire, backend developer freelance,
   api development service, bot development agency,
   go developer freelance, react developer for hire,
-  rust developer freelance, graphql developer for hire
+  rust developer freelance, graphql developer for hire,
+  ai developer for hire, voice bot developer
 
-  ── Long-Tail Keywords ──
+  ── Long-Tail Keywords (High Intent) ──
   hire someone to make a discord bot, custom discord moderation bot developer,
   discord music bot developer for hire, ai voice bot discord developer,
   discord server automation setup service, discord bot with chatgpt integration,
   custom discord economy bot developer, whisper elevenlabs discord voice bot,
   rate limiter api development service, scalable backend development service,
   discord bot maintenance and support, discord bot developer with warranty,
-  discord bot developer with fast delivery, best discord bot programmer,
-  discord bot developer unlimited revisions, premium discord bot developer,
-  enterprise grade discord bot development, discord bot with dashboard panel
+  discord bot developer with fast delivery, discord bot developer unlimited revisions,
+  premium discord bot developer, enterprise grade discord bot development,
+  discord bot with dashboard panel, discord bot developer cheap fast,
+  hire freelance discord bot coder, custom discord bot with ai features
 
   ── Technology Keywords ──
   discord.js developer, typescript discord bot, python discord bot developer,
@@ -1138,15 +1160,18 @@ If you find my projects useful, consider supporting me! Every star, follow, and 
   fast turnaround developer, developer accepting projects now,
   asian timezone developer, bangladesh developer for hire,
   Md. Ikram Hossain Bangladesh, ItzzIkram developer for hire,
-  24 hour response time developer, developer with warranty
+  quick response developer, developer with warranty and support,
+  cheap developer high quality, budget friendly developer premium code
 
-  ── Service Keywords ──
+  ── Service-Specific Keywords ──
   discord server setup service, discord community management bot,
   discord moderation bot development, custom ticket bot discord,
   discord welcome bot developer, discord analytics dashboard developer,
   ai voice assistant development, real time audio processing developer,
   custom api development service, microservices architecture consultant,
-  database optimization service, cloud migration developer
+  database optimization service, cloud migration developer,
+  discord bot hosting service, 24/7 discord bot developer,
+  discord bot with web dashboard, custom slash commands developer
 
   ══════════════════════════════════════════════════════════════════════════════
 -->
