@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Md. Ikram Hossain — Frontend Developer building web interfaces, landing pages, Discord bots and automation tools">
+  <title>Md. Ikram Hossain — Frontend Developer · Discord Bots · Automation</title>
+  <desc>Animated header: a perspective grid receding toward a horizon with orbiting wireframe rings, over the name and title.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090d13"/>
+      <stop offset="45%" stop-color="#0d1c33"/>
+      <stop offset="100%" stop-color="#13325a"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Horizontal grid lines fade out at the left and right edges -->
+    <linearGradient id="hfade" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="28%" stop-color="#58a6ff" stop-opacity="0.85"/>
+      <stop offset="72%" stop-color="#58a6ff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Converging lines fade toward the vanishing point -->
+    <linearGradient id="vfade" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="203">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.26"/>
+    </linearGradient>
+
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#79c0ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <radialGradient id="corona" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="horizonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#79c0ff" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#79c0ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Keeps the text readable over the moving grid -->
+    <linearGradient id="veil" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#090d13" stop-opacity="0.94"/>
+      <stop offset="55%" stop-color="#090d13" stop-opacity="0.78"/>
+      <stop offset="100%" stop-color="#090d13" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    /* The animated layers are SMIL-driven, which CSS cannot pause. Under a
+       reduced-motion preference the moving layers are hidden outright and an
+       equivalent static composition is shown in their place. */
+    .reduced { display: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .motion  { display: none; }
+      .reduced { display: inline; }
+    }
+  </style>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- Depth: lines converging on the vanishing point at (600, 70) -->
+  <g stroke="url(#vfade)" stroke-width="1" fill="none">
+    <line x1="600" y1="70" x2="-110" y2="203"/>
+    <line x1="600" y1="70" x2="20"   y2="203"/>
+    <line x1="600" y1="70" x2="150"  y2="203"/>
+    <line x1="600" y1="70" x2="280"  y2="203"/>
+    <line x1="600" y1="70" x2="400"  y2="203"/>
+    <line x1="600" y1="70" x2="505"  y2="203"/>
+    <line x1="600" y1="70" x2="695"  y2="203"/>
+    <line x1="600" y1="70" x2="800"  y2="203"/>
+    <line x1="600" y1="70" x2="920"  y2="203"/>
+    <line x1="600" y1="70" x2="1050" y2="203"/>
+    <line x1="600" y1="70" x2="1180" y2="203"/>
+    <line x1="600" y1="70" x2="1310" y2="203"/>
+  </g>
+
+  <ellipse cx="600" cy="70" rx="330" ry="26" fill="url(#horizonGlow)"/>
+
+  <!-- ══ Animated layer ══ Grid rows sweeping from the horizon toward the viewer.
+       Geometry attributes are animated directly rather than via transforms, so
+       there is no dependence on transform-origin behaviour across renderers.
+       Each row keeps its centre on x=600 as it widens: x = 600 - width / 2. -->
+  <g class="motion">
+    <g fill="url(#hfade)">
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="0s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="-0.78s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="-0.78s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="-0.78s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="-0.78s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="-1.56s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="-1.56s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="-1.56s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="-1.56s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="-2.33s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="-2.33s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="-2.33s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="-2.33s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="-3.11s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="-3.11s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="-3.11s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="-3.11s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="-3.89s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="-3.89s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="-3.89s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="-3.89s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="-4.67s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="-4.67s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="-4.67s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="-4.67s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="-5.44s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="-5.44s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="-5.44s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="-5.44s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+      <rect y="70" x="580" width="40" height="1.1">
+        <animate attributeName="y"       values="70;203"     dur="7s" begin="-6.22s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="x"       values="580;-110"   dur="7s" begin="-6.22s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="width"   values="40;1420"    dur="7s" begin="-6.22s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 1 1"/>
+        <animate attributeName="opacity" values="0;0.55;0.30;0" dur="7s" begin="-6.22s" repeatCount="indefinite" keyTimes="0;0.12;0.8;1"/>
+      </rect>
+    </g>
+
+    <!-- Orbiting wireframe rings. Rotation uses an explicit centre, so the
+         result is identical across renderers. Each ring carries a node, which
+         keeps the node locked to the ring as it tilts. -->
+    <circle cx="1058" cy="112" r="74" fill="url(#corona)"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 1058 112" to="360 1058 112" dur="24s" repeatCount="indefinite"/>
+      <ellipse cx="1058" cy="112" rx="56" ry="19" fill="none" stroke="url(#ring)" stroke-width="1.2"/>
+      <circle cx="1114" cy="112" r="2.8" fill="#79c0ff"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="70 1058 112" to="430 1058 112" dur="31s" repeatCount="indefinite"/>
+      <ellipse cx="1058" cy="112" rx="56" ry="19" fill="none" stroke="url(#ring)" stroke-width="1.2"/>
+      <circle cx="1002" cy="112" r="2.4" fill="#58a6ff"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="130 1058 112" to="490 1058 112" dur="38s" repeatCount="indefinite"/>
+      <ellipse cx="1058" cy="112" rx="56" ry="19" fill="none" stroke="url(#ring)" stroke-width="1.2"/>
+      <circle cx="1114" cy="112" r="2.2" fill="#a5d6ff"/>
+    </g>
+
+    <circle cx="1058" cy="112" r="3.6" fill="#79c0ff">
+      <animate attributeName="r" values="3.2;4.4;3.2" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Depth particles drifting at different rates -->
+    <g fill="#79c0ff">
+      <circle cx="250" cy="40" r="1.5" opacity="0.5">
+        <animate attributeName="cy" values="40;24;40" dur="11s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;0.6;0.2" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="430" cy="28" r="1.1" opacity="0.4">
+        <animate attributeName="cy" values="28;46;28" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.45;0.15;0.45" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="760" cy="34" r="1.6" opacity="0.45">
+        <animate attributeName="cy" values="34;18;34" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;0.55;0.2" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="880" cy="52" r="1.2" opacity="0.35">
+        <animate attributeName="cy" values="52;38;52" dur="13s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.12;0.4" dur="13s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="18" r="1.1" opacity="0.3">
+        <animate attributeName="cy" values="18;34;18" dur="16s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.45;0.15" dur="16s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- ══ Static equivalent, shown when the viewer prefers reduced motion ══ -->
+  <g class="reduced">
+    <g fill="url(#hfade)" opacity="0.32">
+      <rect x="520" y="86"  width="160"  height="1.1"/>
+      <rect x="452" y="104" width="296"  height="1.1"/>
+      <rect x="350" y="126" width="500"  height="1.1"/>
+      <rect x="196" y="152" width="808"  height="1.1"/>
+      <rect x="-20" y="182" width="1240" height="1.1"/>
+    </g>
+    <circle cx="1058" cy="112" r="74" fill="url(#corona)"/>
+    <g fill="none" stroke="url(#ring)" stroke-width="1.2">
+      <ellipse cx="1058" cy="112" rx="56" ry="19"/>
+      <ellipse cx="1058" cy="112" rx="56" ry="19" transform="rotate(62 1058 112)"/>
+      <ellipse cx="1058" cy="112" rx="56" ry="19" transform="rotate(124 1058 112)"/>
+    </g>
+    <circle cx="1058" cy="112" r="3.6" fill="#79c0ff"/>
+  </g>
+
+  <!-- Readability veil, then foreground type -->
+  <rect x="0" y="0" width="820" height="200" fill="url(#veil)"/>
+  <rect x="0" y="0" width="5" height="200" fill="url(#accent)"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="52" y="78" fill="#ffffff" font-size="44" font-weight="700" letter-spacing="0.3">Md. Ikram Hossain</text>
+
+    <rect x="54" y="98" width="180" height="2" fill="url(#rule)"/>
+
+    <text x="52" y="132" fill="#8ab4f8" font-size="20" font-weight="500" letter-spacing="0.4">Frontend Developer · Discord Bots · Automation</text>
+
+    <text x="52" y="166" fill="#8b949e" font-size="14.5" font-weight="400" letter-spacing="0.8">React · Next.js · TypeScript &#160;&#160;|&#160;&#160; Landing Pages &#160;&#160;|&#160;&#160; Web Apps &#160;&#160;|&#160;&#160; Bots</text>
+
+    <g transform="translate(948, 42)">
+      <circle cx="0" cy="0" r="5" fill="#3fb950">
+        <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="16" y="5" font-size="14" font-weight="600" fill="#3fb950" letter-spacing="0.5">Available for engagements</text>
+    </g>
+  </g>
+</svg>
